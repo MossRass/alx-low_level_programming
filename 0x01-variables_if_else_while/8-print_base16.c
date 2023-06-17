@@ -13,7 +13,7 @@ int main(void)
 	int num;
 	int let;
 
-	for (num = 0 ; 0 < 10 ; num++)
+	for (num = 48 ; num <= 57 ; num++)
 	{
 		putchar(num);
 	}
