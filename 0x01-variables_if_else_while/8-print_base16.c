@@ -13,11 +13,11 @@ int main(void)
 	int num;
 	int let;
 
-	for (num = 48 ; num <= 58 ; num++)
+	for (num = 48 ; num <= 57 ; num++)
 	{
 		putchar(num);
 	}
-	for (let = 97 ; let < 102 ; let++)
+	for (let = 97 ; let <= 102 ; let++)
 	{
 		putchar(let);
 	}
