@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_alphabet  - print_alphabet_x10
+ * print_alphabet_x10  - print_alphabet_x10
  *
- * description: alphabet a to z
+ * Description: print alphabet 10 times.
 */
 void print_alphabet_x10(void)
 {
