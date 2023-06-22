@@ -8,7 +8,6 @@
 
 int _isupper(int c)
 {
-	int c;
 
 	if (c >= 'A' && c <= 'Z')
 	{
@@ -18,3 +17,4 @@ int _isupper(int c)
 	{
 		return (0);
 	}
+}
