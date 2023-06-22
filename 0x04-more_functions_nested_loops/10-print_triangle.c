@@ -13,7 +13,6 @@ void print_triangle(int size)
 	}
 	else
 	{
-		int i, j;
 
 		for (line = 1; line <= size; line++)
 		{
