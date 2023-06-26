@@ -6,7 +6,7 @@
  * Return: String in reverse
  */
 
-void reverseString(char *s)
+void rev_string(char *s)
 {
 
 	int len = 0;
