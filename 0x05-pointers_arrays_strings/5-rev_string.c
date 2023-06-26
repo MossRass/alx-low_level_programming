@@ -14,7 +14,7 @@ void reverseString(char *s)
 	int last_lettre = 0;
 	char place;
 
-	while (str[len] != '\0')
+	while (s[len] != '\0')
 	{
 		len++;
 	}
