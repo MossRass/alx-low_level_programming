@@ -15,11 +15,12 @@ int is_prime_number(int n)
 }
 
 /**
- * control_prime - calculates if a number is prime recursively
+ * control_prime - control if a number is prime
  * @n: number
  * @val: number
  * Return: 1 if n is prime, otherwise 0
  */
+
 int control_prime(int n, int val)
 {
 	if (val == 1)
