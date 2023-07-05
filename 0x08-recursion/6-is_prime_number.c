@@ -27,4 +27,5 @@ int control_prime(int n, int val)
 		return (1);
 	if (n % val == 0 && val > 0)
 		return (0);
+	return (control_prime(n, val - 1));
 }
