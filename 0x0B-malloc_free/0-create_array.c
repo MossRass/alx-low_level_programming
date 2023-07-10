@@ -19,3 +19,5 @@ char *create_array(unsigned int size, char c)
 
 	for (num = 0; num < size; num++)
 		str[num] = c;
+	return (str);
+}
